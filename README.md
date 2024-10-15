@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enjoy2573)](https://solved.ac/rpdyddns/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rpdyddns)](https://solved.ac/rpdyddns/)
 
 <a href="https://www.instagram.com/zzz__3z/">
     <img 
