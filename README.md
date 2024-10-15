@@ -1,9 +1,3 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50&height=300&section=header&text=Lucky%20Vicky&fontSize=90&animation=fadeIn&fontAlignY=28&desc=Welcome%20to%20jinjoo's%20Github!&descAlignY=51&descAlign=62&fontColor=ffffff"/>
-</p>
-
-
-
 ## Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enjoy2573)](https://solved.ac/rpdyddns/)
